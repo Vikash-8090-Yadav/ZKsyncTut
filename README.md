@@ -28,3 +28,6 @@ zkSync is a Layer 2 scaling solution for Ethereum, utilizing zero-knowledge roll
 ## Conclusion
 
 zkSync represents a promising solution to Ethereum's scalability issues, leveraging advanced cryptographic techniques to offer a scalable, secure, and cost-effective platform for a wide range of applications. Its development and integration into the broader Ethereum ecosystem highlight its potential to significantly enhance the user and developer experience on Ethereum.
+
+## Testnet Faucet 
+please follow this guide
