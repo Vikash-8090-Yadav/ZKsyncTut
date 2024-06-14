@@ -114,6 +114,59 @@ For every deployment there is some sort of steps which every user  have to follo
 - create the deployment script
 
 
-## Step1:  Create the zksync hardhat template project with zksync cli 
+## Step1: Clone this repo
 
+```
+ git clone https://github.com/Vikash-8090-Yadav/ZKsyncTut.git
+
+```
+
+## Step2: Install libraries
+
+```
+yarn install 
+```
+
+## Step3: Compile the contract
+
+```
+yarn compile
+
+```
+
+![Screenshot from 2024-06-15 04-22-07](https://github.com/Vikash-8090-Yadav/ZKsyncTut/assets/85225156/0f767c05-75d8-485b-840f-221a72c5d50c)
+
+
+## Step4: Replace your original contract in contract/youcntract.sol folder
+
+## step5: Under deployment deploy/deploy.ts file
+ - Replace with your contract artificat
+ - Give the ocntructor Arguement (If any)
+   
+
+## Step6: Deploy the contract 
+
+```
+yarn deploy 
+```
+
+--network flag is optional
+
+
+![Screenshot from 2024-06-15 04-22-58](https://github.com/Vikash-8090-Yadav/ZKsyncTut/assets/85225156/d2fe2f75-ea91-43eb-84d3-365cb9d48a66)
+
+## Congrats! You have sucessfully deployed your First contract on zksync. which is not easy task. 
+
+
+
+
+## Exceptional case
+
+ - Learn how to handle compiling non-inlinable libraries. : https://docs.zksync.io/build/tooling/hardhat/compiling-libraries
+
+
+#  Helpful Docs
+
+Zksync Docs: https://docs.zksync.io/build
+Zksync Community : https://code.zksync.io/ 
 
