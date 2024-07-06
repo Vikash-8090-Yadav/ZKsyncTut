@@ -18,7 +18,7 @@ In this tutorial we will:
 
 # Deploy om Zksync 
 
-# Learn How to create  a  Login page (Connect with metamask) & How to deplpoy Dapp on zksync sepolia testnet
+# Learn How to How to deplpoy Dapp on zksync sepolia testnet
 
 
 # zkSync Overview
