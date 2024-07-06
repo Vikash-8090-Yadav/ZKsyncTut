@@ -25,9 +25,11 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Exceptional case
 
  - Learn how to handle compiling non-inlinable libraries. : https://docs.zksync.io/build/tooling/hardhat/compiling-libraries
+ - 
 
 
 #  Helpful Docs
 
 Zksync Docs: https://docs.zksync.io/build
+
 Zksync Community : https://code.zksync.io/ 
