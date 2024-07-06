@@ -49,9 +49,8 @@ The paymaster smart contract code is provided "as-is" without any express or imp
 The testnet paymaster address is
 [0x3cb2b87d10ac01736a65688f3e0fb1b070b3eea3](https://sepolia.explorer.zksync.io/address/0x3cb2b87d10ac01736a65688f3e0fb1b070b3eea3)
 
-::drop-panel
-  ::panel{label="TestnetPaymaster.sol"}
-        ```solidity
+
+        ```
         // SPDX-License-Identifier: MIT
 
         pragma solidity 0.8.20;
@@ -182,6 +181,4 @@ items: [{
 
 ## Next steps
 
-- Learn more about paymasters and native account abstraction in [this section of the docs](/build/developer-reference/account-abstraction/).
-- Browse different paymaster examples in [this open source repository](https://github.com/matter-labs/paymaster-examples).
-- Continue learning in ZKsync 101 by building a [GoFundMe clone](/build/zksync-101).
+
