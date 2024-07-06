@@ -9,13 +9,6 @@ In this tutorial we will:
 
 
 
-## Prerequisites
-
-1. Before you start, make sure that
-[you’ve configured the %%zk_testnet_name%% in your browser wallet by following the instructions here](/build/connect-to-zksync).
-2. In addition, fund your wallet with %%zk_testnet_name%% ETH using [one of the available faucets](/ecosystem/network-faucets).
-
-
 # Deploy om Zksync 
 
 # Learn How to How to deplpoy Dapp on zksync sepolia testnet
