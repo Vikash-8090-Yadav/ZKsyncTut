@@ -1,12 +1,3 @@
----
-title: Paymasters introduction
-description: Learn about paymasters and use one to pay transaction fees with your own token
----
-
-This tutorial makes use of smart contracts deployed in the previous two tutorials,
-[Deploy your first contract](/build/quick-start/deploy-your-first-contract) and [Create an ERC20 token](/build/quick-start/erc20-token).
-This section introduces one of the custom features
-of ZKsync: native account abstraction and paymasters.
 
 In this tutorial we will:
 
