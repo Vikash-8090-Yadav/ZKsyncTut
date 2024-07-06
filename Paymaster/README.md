@@ -352,6 +352,5 @@ items: [{
 - Paymasters are smart contracts that can have any validations and rules.
 - To send a transaction through a paymaster, we only need to include additional parameters in the transaction.
 
-## Next steps
 
 
