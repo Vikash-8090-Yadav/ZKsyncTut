@@ -1,11 +1,11 @@
 
 In this tutorial we will:
 
-:check-icon Learn about paymasters.
+- Learn about paymasters.
 
-:check-icon Review the testnet paymaster smart contract code.
+- Review the testnet paymaster smart contract code.
 
-:check-icon Use the testnet paymaster to pay transaction fees with our own ERC20 token.
+- Use the testnet paymaster to pay transaction fees with our own ERC20 token.
 
 ## Prerequisites
 
