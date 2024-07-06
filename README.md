@@ -18,3 +18,16 @@ Before you begin, ensure you have the following prerequisites installed:
 #Totorials:
 
 1. About Paymaster & How to deploy on ZKsync: https://github.com/Vikash-8090-Yadav/ZKsyncTut/tree/main/Paymaster 
+
+
+
+
+## Exceptional case
+
+ - Learn how to handle compiling non-inlinable libraries. : https://docs.zksync.io/build/tooling/hardhat/compiling-libraries
+
+
+#  Helpful Docs
+
+Zksync Docs: https://docs.zksync.io/build
+Zksync Community : https://code.zksync.io/ 
